@@ -1,6 +1,6 @@
 enum Months {
         JANUARY(31),
-        FABRUARY(29),
+        FEBRUARY(29),
         MARCH(31),
         APRIL(30),
         MAY(31),
